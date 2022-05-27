@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hellofresh_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hellofresh_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task1/Hellofresh_test.task1.iml" filepath="$PROJECT_DIR$/.idea/modules/task1/Hellofresh_test.task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task2/Hellofresh_test.task2.iml" filepath="$PROJECT_DIR$/.idea/modules/task2/Hellofresh_test.task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/Hellofresh_test.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/Hellofresh_test.utils.iml" />
+    </modules>
+  </component>
+</project>

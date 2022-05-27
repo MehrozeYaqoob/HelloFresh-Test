@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hellofresh test</string>
+    <string name="protein">Proteins:</string>
+    <string name="calories">Calories:</string>
+    <string name="unable_to_load_data">Unable to load data</string>
+</resources>

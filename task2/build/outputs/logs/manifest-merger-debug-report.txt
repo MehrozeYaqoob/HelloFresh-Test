@@ -1,0 +1,285 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1b6bb163b4e0b69fb4d05f926f4b65d2/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b685bc566f2b7ca3ae8810d91879b419/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:utils] /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/utils/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/77aa0377f1ddef332a5c5ffaff8bec57/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ceec03a50598231b61150cde983b50b3/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [io.insert-koin:koin-android:3.2.0-beta-1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/110b9529d631f3324097bd0625b8dae3/transformed/jetified-koin-android-3.2.0-beta-1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a51022d3a9e81eefc9e60c0ddb4e9c12/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/79923e34add71375be9b10756b1f39e1/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/81ef8f12a722e91da29e8c18080b9716/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5b5f5c03bb6538ad32d18fe0dcd0a31/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ec3e10c7704450fed0bc8192467d4761/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/554b0b5a1337d4358c0f843b3132013e/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/f9d55e5363f8165e2d27192301457f88/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/e09821d80be7872257d6d393c910b943/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5fc0ee3f9eabf8118c1f0f4acc5a2f0/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/2568ba2b6b831e235449555613e03b71/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b4aac5d44500dbb5ec9e9f92a1527dea/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/6f28a3744431fa109fc5b3b96ccadcf7/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/8ae28dcbdf4705c2bc13aacfefd2843d/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/071137e0f7c7a4c52da3847269edde51/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c846b93b052a10f05736a5b4ee64b82d/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c39d645e8a44f83d4f463431d0ea0934/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/85a0f5720efe29f5d6180b4ac1a7e479/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a0a365bf29f9d2a6da7fb31902da3e1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/699c8b90f54eae31f177352c87d0e884/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/dffbe22f82d091b2d469d5278b4513d0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b2c26c341a563e8614e073a3dd6d978d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/900be8d841ae3170201b132052519316/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b84fe510c8b21189f3ffd0b5b96c8367/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/8f97ee3bb4935ecdebd323a53223d7b7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c53c144656f3e07429ec44ea9b67c49b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5dda3dabc257149c2d23b7791c9ee558/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/30e480acb8fe4e189c554d550beab263/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/70f0825a842985399fd4aaf103607e3d/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b8d1ff18014161195018eaefa0c75c8e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1cdda09321d6e069cb06244d16e2110a/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/48e43eb13c74dd33d485d1d3fc1c99ff/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/93634eb6b481d68ffb7321390044bc9c/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5c4789484c412a8e7e1d93e62f05bc24/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1c521d3d0060a9ce0e2b5cd86a5c30ec/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/791635e902c426874d3f7bef3a867ebd/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/83c88b85c6a1cb268e365136f97447c1/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1a36e721950fd0c471575fa27995c829/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/d065935f1e75c453c6002f9e47628a1e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/38cb359fbef5fe662ad13b40673e75e5/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/47047f8985f7ce25d8b92f1e81e0ecf2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/53d5a6d17b966247532682a9998b566c/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/de274e43d7d983a4623b77e87cc7baa3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ef3d903e8842afe875757be59e93cd3a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/96df42928a324aacbfbedc905e7338da/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/2dea15c33b0094a924d0161ef629de37/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/77aa0377f1ddef332a5c5ffaff8bec57/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/77aa0377f1ddef332a5c5ffaff8bec57/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ceec03a50598231b61150cde983b50b3/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ceec03a50598231b61150cde983b50b3/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.2.0-beta-1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/110b9529d631f3324097bd0625b8dae3/transformed/jetified-koin-android-3.2.0-beta-1/AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:3.2.0-beta-1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/110b9529d631f3324097bd0625b8dae3/transformed/jetified-koin-android-3.2.0-beta-1/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/79923e34add71375be9b10756b1f39e1/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/79923e34add71375be9b10756b1f39e1/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5b5f5c03bb6538ad32d18fe0dcd0a31/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5b5f5c03bb6538ad32d18fe0dcd0a31/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5dda3dabc257149c2d23b7791c9ee558/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5dda3dabc257149c2d23b7791c9ee558/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/93634eb6b481d68ffb7321390044bc9c/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/93634eb6b481d68ffb7321390044bc9c/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/d065935f1e75c453c6002f9e47628a1e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/d065935f1e75c453c6002f9e47628a1e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5dda3dabc257149c2d23b7791c9ee558/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:6:9-64
+activity#com.hellofresh.task2.presentation.view.RestaurantActivity
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:13:9-20:20
+	android:exported
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:14:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:18:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml:23:22-64
+uses-sdk
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1b6bb163b4e0b69fb4d05f926f4b65d2/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1b6bb163b4e0b69fb4d05f926f4b65d2/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b685bc566f2b7ca3ae8810d91879b419/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b685bc566f2b7ca3ae8810d91879b419/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:utils] /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/utils/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:utils] /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/utils/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/77aa0377f1ddef332a5c5ffaff8bec57/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/77aa0377f1ddef332a5c5ffaff8bec57/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ceec03a50598231b61150cde983b50b3/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ceec03a50598231b61150cde983b50b3/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.2.0-beta-1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/110b9529d631f3324097bd0625b8dae3/transformed/jetified-koin-android-3.2.0-beta-1/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:3.2.0-beta-1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/110b9529d631f3324097bd0625b8dae3/transformed/jetified-koin-android-3.2.0-beta-1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a51022d3a9e81eefc9e60c0ddb4e9c12/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a51022d3a9e81eefc9e60c0ddb4e9c12/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/79923e34add71375be9b10756b1f39e1/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/79923e34add71375be9b10756b1f39e1/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/81ef8f12a722e91da29e8c18080b9716/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/81ef8f12a722e91da29e8c18080b9716/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5b5f5c03bb6538ad32d18fe0dcd0a31/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5b5f5c03bb6538ad32d18fe0dcd0a31/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ec3e10c7704450fed0bc8192467d4761/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ec3e10c7704450fed0bc8192467d4761/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/554b0b5a1337d4358c0f843b3132013e/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/554b0b5a1337d4358c0f843b3132013e/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/f9d55e5363f8165e2d27192301457f88/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/f9d55e5363f8165e2d27192301457f88/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/e09821d80be7872257d6d393c910b943/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/e09821d80be7872257d6d393c910b943/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5fc0ee3f9eabf8118c1f0f4acc5a2f0/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b5fc0ee3f9eabf8118c1f0f4acc5a2f0/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/2568ba2b6b831e235449555613e03b71/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/2568ba2b6b831e235449555613e03b71/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b4aac5d44500dbb5ec9e9f92a1527dea/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b4aac5d44500dbb5ec9e9f92a1527dea/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/6f28a3744431fa109fc5b3b96ccadcf7/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/6f28a3744431fa109fc5b3b96ccadcf7/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/8ae28dcbdf4705c2bc13aacfefd2843d/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/8ae28dcbdf4705c2bc13aacfefd2843d/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/071137e0f7c7a4c52da3847269edde51/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/071137e0f7c7a4c52da3847269edde51/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c846b93b052a10f05736a5b4ee64b82d/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c846b93b052a10f05736a5b4ee64b82d/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c39d645e8a44f83d4f463431d0ea0934/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c39d645e8a44f83d4f463431d0ea0934/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/85a0f5720efe29f5d6180b4ac1a7e479/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/85a0f5720efe29f5d6180b4ac1a7e479/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a0a365bf29f9d2a6da7fb31902da3e1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a0a365bf29f9d2a6da7fb31902da3e1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/699c8b90f54eae31f177352c87d0e884/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/699c8b90f54eae31f177352c87d0e884/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/dffbe22f82d091b2d469d5278b4513d0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/dffbe22f82d091b2d469d5278b4513d0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b2c26c341a563e8614e073a3dd6d978d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b2c26c341a563e8614e073a3dd6d978d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/900be8d841ae3170201b132052519316/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/900be8d841ae3170201b132052519316/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b84fe510c8b21189f3ffd0b5b96c8367/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b84fe510c8b21189f3ffd0b5b96c8367/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/8f97ee3bb4935ecdebd323a53223d7b7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/8f97ee3bb4935ecdebd323a53223d7b7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c53c144656f3e07429ec44ea9b67c49b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c53c144656f3e07429ec44ea9b67c49b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5dda3dabc257149c2d23b7791c9ee558/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5dda3dabc257149c2d23b7791c9ee558/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/30e480acb8fe4e189c554d550beab263/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/30e480acb8fe4e189c554d550beab263/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/70f0825a842985399fd4aaf103607e3d/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/70f0825a842985399fd4aaf103607e3d/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b8d1ff18014161195018eaefa0c75c8e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b8d1ff18014161195018eaefa0c75c8e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1cdda09321d6e069cb06244d16e2110a/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1cdda09321d6e069cb06244d16e2110a/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/48e43eb13c74dd33d485d1d3fc1c99ff/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/48e43eb13c74dd33d485d1d3fc1c99ff/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/93634eb6b481d68ffb7321390044bc9c/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/93634eb6b481d68ffb7321390044bc9c/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5c4789484c412a8e7e1d93e62f05bc24/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/5c4789484c412a8e7e1d93e62f05bc24/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1c521d3d0060a9ce0e2b5cd86a5c30ec/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1c521d3d0060a9ce0e2b5cd86a5c30ec/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/791635e902c426874d3f7bef3a867ebd/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/791635e902c426874d3f7bef3a867ebd/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/83c88b85c6a1cb268e365136f97447c1/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/83c88b85c6a1cb268e365136f97447c1/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1a36e721950fd0c471575fa27995c829/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/1a36e721950fd0c471575fa27995c829/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/d065935f1e75c453c6002f9e47628a1e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/d065935f1e75c453c6002f9e47628a1e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/38cb359fbef5fe662ad13b40673e75e5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/38cb359fbef5fe662ad13b40673e75e5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/47047f8985f7ce25d8b92f1e81e0ecf2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/47047f8985f7ce25d8b92f1e81e0ecf2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/53d5a6d17b966247532682a9998b566c/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/53d5a6d17b966247532682a9998b566c/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/de274e43d7d983a4623b77e87cc7baa3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/de274e43d7d983a4623b77e87cc7baa3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ef3d903e8842afe875757be59e93cd3a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/ef3d903e8842afe875757be59e93cd3a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/96df42928a324aacbfbedc905e7338da/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/96df42928a324aacbfbedc905e7338da/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/2dea15c33b0094a924d0161ef629de37/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/2dea15c33b0094a924d0161ef629de37/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		ADDED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+		INJECTED from /Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/a618d86580e2500b583b4bc7a5c76f23/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mehrozeyaqoob/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

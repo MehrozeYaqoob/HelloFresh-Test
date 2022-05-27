@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_recipe_layout.xml",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/layout/item_recipe_layout.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_restaurant.xml",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/layout/activity_restaurant.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_date_layout.xml",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/layout/item_date_layout.xml"
+    }
+]

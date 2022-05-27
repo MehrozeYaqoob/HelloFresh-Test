@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/drawable_recipe_default_banner.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/drawable/recipe_default_banner.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/font_roboto_bold.ttf.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/layout_item_date_layout.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/layout/item_date_layout.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/layout_item_recipe_layout.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/layout/item_recipe_layout.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/layout_activity_restaurant.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/layout/activity_restaurant.xml"
+    },
+    {
+        "merged": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/build/intermediates/merged_res/debug/drawable_restaurant_tile_overlay.xml.flat",
+        "source": "/Users/mehrozeyaqoob/Desktop/Github/MehrozeYaqoob-android-test-2.0/task2/src/main/res/drawable/restaurant_tile_overlay.xml"
+    }
+]

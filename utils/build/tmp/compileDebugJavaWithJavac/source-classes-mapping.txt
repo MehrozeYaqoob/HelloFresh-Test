@@ -1,0 +1,2 @@
+com/hellofresh/task2/BuildConfig.java
+ com.hellofresh.task2.BuildConfig

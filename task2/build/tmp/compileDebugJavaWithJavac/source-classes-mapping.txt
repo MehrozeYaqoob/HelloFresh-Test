@@ -1,0 +1,8 @@
+com/hellofresh/task2/BuildConfig.java
+ com.hellofresh.task2.BuildConfig
+com/hellofresh/task2/databinding/ItemDateLayoutBinding.java
+ com.hellofresh.task2.databinding.ItemDateLayoutBinding
+com/hellofresh/task2/databinding/ItemRecipeLayoutBinding.java
+ com.hellofresh.task2.databinding.ItemRecipeLayoutBinding
+com/hellofresh/task2/databinding/ActivityRestaurantBinding.java
+ com.hellofresh.task2.databinding.ActivityRestaurantBinding
